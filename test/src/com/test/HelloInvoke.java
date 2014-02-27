@@ -16,7 +16,7 @@ public class HelloInvoke {
 		Object[] results = c.invoke("getStationName", new Object[]{null});
 		for (Object object : results) {
 			System.out.println(object);
-			System.out.println("nihao");
+			System.out.println("nihaollll");
 		}
 	}
 }
